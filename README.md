@@ -6,3 +6,5 @@ un contesto collaborativo.
 # Amaddii
 Sto imparando Git e GitHub per migliorare la mia gestione dei progetti
 
+# MG
+Voglio condividere il codice con chi voglio
