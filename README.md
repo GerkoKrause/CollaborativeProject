@@ -9,7 +9,7 @@ Sto imparando Git e GitHub per capire come lavorare bene in squadra sui progetti
 # Amaddii
 Sto imparando Git e GitHub per migliorare la mia gestione dei progetti
 
-# MG
+# Marco Ghiglia
 Voglio condividere il codice con chi voglio
 
 # Edoardo Veroli
@@ -17,4 +17,6 @@ Imparo ad usare bene GitHub per condividere i miei codici con i miei colleghi
 
 # Marco E M Bressan
 I wanna git gud
+
+# Roberto Grossi
 speedrun
